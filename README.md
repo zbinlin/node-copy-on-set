@@ -1,4 +1,4 @@
-# Fossil
+# Copy on Set
 
 > A simple immutable data implementation for Javascript
 

@@ -1,5 +1,5 @@
 {
-  "name": "fossil",
+  "name": "copy-on-set",
   "version": "1.0.0",
   "description": "Immutable data for Javascript",
   "main": "index.js",
