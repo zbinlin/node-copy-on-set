@@ -4,4 +4,4 @@
 
 ## Usage
 
-See [test code](test.js)
+See [test code](./test.js)
